@@ -1,5 +1,3 @@
-## 🔹 3. GitHub README / Portfolio Version (Professional & Structured)
-
 ### Agentic AI Compliance Checker (Agentic RAG)
 
 **Overview**
